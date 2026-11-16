@@ -12028,7 +12028,7 @@
         "PlacePrice": 55000,
         "Offset": 0.5,
         "Max": 3,
-        "Passive": {"Name": "Space Rider", "Description": "+25% damage when paired with Astral Bonnie or Planet Buster. Spawns a clone of himself every 13s that has health equal to 30x his damage. Attacks apply 40% anti-regen."},
+        "Passive": {"Name": "Space Rider", "Description": "+25% damage when paired with Astral Bonnie, Radiant Bonnie or Planet Buster. Spawns a clone of himself every 13s that has health equal to 30x his damage. Attacks apply 40% anti-regen."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
