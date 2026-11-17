@@ -5938,6 +5938,46 @@
         ]
     },
 
+"Vintage OMC": {
+        "Type": "AOE",
+        "Image": "rbxassetid://120245473116993",
+        "Rarity": "Radiant",
+        "PlacePrice": 23570,
+        "Offset": 0.5,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 33333,
+                "Range": 28,
+                "Damage": 10250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 55555,
+                "Range": 32,
+                "Damage": 15050,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 77777,
+                "Range": 35,
+                "Damage": 12550,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+
      "Fazbear Mafia": {
         "Type": "Splash + Summon",
         "Image": "rbxassetid://131447165249179",
