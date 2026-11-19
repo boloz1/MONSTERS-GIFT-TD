@@ -77,6 +77,57 @@
             }
         ]
     },
+    "Ragequit Scott": {
+        "Type": "AOE + Stun",
+        "Image": "rbxassetid://86718944176982",
+        "Rarity": "Radiant",
+        "PlacePrice": 99999,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 100000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 80000,
+                "Range": 25,
+                "Damage": 120000,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 99999,
+                "Range": 27,
+                "Damage": 150000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 111111,
+                "Range": 27,
+                "Damage": 175000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 133333,
+                "Range": 29,
+                "Damage": 200000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 221111,
+                "Range": 31,
+                "Damage": 225000,
+                "Cooldown": 4.25
+            }
+        ]
+    },
     "Jason Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://130508639070093",
