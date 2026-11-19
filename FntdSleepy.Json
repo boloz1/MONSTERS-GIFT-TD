@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Ragequit Plush": {
+        "Type": "Single",
+        "Image": "rbxassetid://121242531975955",
+        "Rarity": "Abyssal",
+        "PlacePrice": 10,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100,
+                "Damage": 1,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100,
+                "Range": 250,
+                "Damage": 3,
+                "Cooldown": 1
+            },
+            {
+                "Price": 200,
+                "Range": 444,
+                "Damage": 5,
+                "Cooldown": 1
+            },
+            {
+                "Price": 222,
+                "Range": 500,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Jason Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://130508639070093",
