@@ -2892,6 +2892,58 @@
             }
         ]
     },
+    "Party Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://125960900780727",
+        "Rarity": "Party",
+        "PlacePrice": 10000,
+        "Offset": 1.25,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 2.5
+            },
+
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 10000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 30000,
+                "Range": 31,
+                "Damage": 12570,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 40000,
+                "Range": 34,
+                "Damage": 15070,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 50000,
+                "Range": 37,
+                "Damage": 23400,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 67000,
+                "Range": 45,
+                "Damage": 33260,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Circuit Breaker Freddy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://18886487842",
