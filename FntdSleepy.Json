@@ -12351,6 +12351,54 @@
             }
         ]
     },
+    "Troll Duo": {
+        "Type": "troll",
+        "Image": "rbxassetid://117459932028715",
+        "Rarity": "Abyssal",
+        "PlacePrice": 888,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "wat a prank", "Description": "Bear5 slows enemies and Bunny5 stuns enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 444,
+                "Cooldown": 0.35,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 888,
+                "Range": 24,
+                "Damage": 555,
+                "Cooldown": 0.35,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1111,
+                "Range": 25,
+                "Damage": 655,
+                "Cooldown": 0.35,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1222,
+                "Range": 25,
+                "Damage": 555,
+                "Cooldown": 0.1,
+                "Slow": 0.95,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Michael Afton": {
         "Type": "Trapper",
         "Image": "rbxassetid://114032714827197",
